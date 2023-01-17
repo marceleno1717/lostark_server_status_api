@@ -1,6 +1,7 @@
 ## Welcome to lost ark server status API Docs
 
 API created by **ML7#4597**
+The link of API: **https://lostark-server-status-api.onrender.com/**
 
 ## Routes
 
@@ -12,7 +13,7 @@ API created by **ML7#4597**
 
 ## Regions
 
-NOTE: **Use those as region name!**
+NOTE: **Use aliases as region name!**
 
 | Region             | alias |
 | ------------------ | ----- |
